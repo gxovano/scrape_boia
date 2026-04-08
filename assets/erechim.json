@@ -1,0 +1,79 @@
+{
+  "erechim": [
+    {
+      "dia": "Segunda-feira",
+      "data": "06/04/26",
+      "salada_1": "Radite pão de açúcar",
+      "salada_2": "Cenoura ralada",
+      "salada_3": "Repolho com milho",
+      "arroz_1": "Arroz Branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão carioca",
+      "guarnicao": "Batata palha",
+      "proteina": "Estrogonofe bovino (CL)",
+      "opcao_vegetariana": "Soja em grãos com tomate e manjericão",
+      "sobremesa": "Laranja",
+      "parte_11": "Suco: Limão"
+    },
+    {
+      "dia": "Terça-feira",
+      "data": "07/04/26",
+      "salada_1": "Mix de folhas",
+      "salada_2": "Rabanete",
+      "salada_3": "Macarronese (CG)",
+      "arroz_1": "Arroz Branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão",
+      "guarnicao": "Farofa de banana",
+      "proteina": "Bife de frango ao molho sugo",
+      "opcao_vegetariana": "Trouxinha de repolho com PTS ao sugo",
+      "sobremesa": "Creme sensação (CL)",
+      "parte_11": "Suco: Laranja"
+    },
+    {
+      "dia": "Quarta-feira",
+      "data": "08/04/26",
+      "salada_1": "Alface",
+      "salada_2": "Repolho com laranja e passas",
+      "salada_3": "Beterraba cozida",
+      "arroz_1": "Arroz Branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão",
+      "guarnicao": "Massa parafuso com ervas (CG)",
+      "proteina": "Carré suíno ao molho escuro",
+      "opcao_vegetariana": "Ovo cozido",
+      "sobremesa": "Banana",
+      "parte_11": "Suco: Morango"
+    },
+    {
+      "dia": "Quinta-feira",
+      "data": "09/04/26",
+      "salada_1": "Salada mista verde",
+      "salada_2": "Pepino",
+      "salada_3": "Chuchu com tempero verde",
+      "arroz_1": "Arroz Branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão",
+      "guarnicao": "Moranga caramelada",
+      "proteina": "Bife de frango acebolado",
+      "opcao_vegetariana": "Bolinho de lentilha (CG)",
+      "sobremesa": "Sagu com creme (CL)",
+      "parte_11": "Suco: Tangerina"
+    },
+    {
+      "dia": "Sexta-feira",
+      "data": "10/04/26",
+      "salada_1": "Alface e couve chinesa",
+      "salada_2": "Beterraba ralada",
+      "salada_3": "Cenoura cozida",
+      "arroz_1": "Arroz Branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão",
+      "guarnicao": "Legumes à primavera",
+      "proteina": "Bife bovino à milanesa (CG)",
+      "opcao_vegetariana": "Hamburguer de grão de bico (CG)",
+      "sobremesa": "Maçã",
+      "parte_11": "Suco: Abacaxi"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "generate-assets": "node scrape.js --all --assets-dir=assets"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "^0.9.9",
+    "cheerio": "^1.2.0"
+  }
+}

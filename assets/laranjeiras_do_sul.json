@@ -1,0 +1,74 @@
+{
+  "laranjeiras_do_sul": [
+    {
+      "dia": "Segunda-feira",
+      "data": "06/04/26",
+      "salada_1": "Alface",
+      "salada_2": "Beterraba ralada",
+      "salada_3": "Repolho refogado",
+      "arroz_1": "Arroz parboilizado",
+      "arroz_2": "Arroz integral",
+      "feijao": "Feijão-preto",
+      "guarnicao": "Macarrão ao molho sugo (contém glúten)",
+      "proteina": "Bife bovino acebolado",
+      "opcao_vegetariana": "Panqueca de beterraba (contém glúten e lactose)",
+      "sobremesa": "Fruta"
+    },
+    {
+      "dia": "Terça-feira",
+      "data": "07/04/26",
+      "salada_1": "Mix de folhas",
+      "salada_2": "Espaguete de cenoura",
+      "salada_3": "Chuchu cozido",
+      "arroz_1": "Arroz parboilizado",
+      "arroz_2": "Arroz integral",
+      "feijao": "Feijão-carioca",
+      "guarnicao": "Purê de cabotiá (contém lactose)",
+      "proteina": "Coxa e sobrecoxa assada",
+      "opcao_vegetariana": "Hambúrguer (contém glúten)",
+      "sobremesa": "Gelatina"
+    },
+    {
+      "dia": "Quarta-feira",
+      "data": "08/04/26",
+      "salada_1": "Escarola",
+      "salada_2": "Pepino com gergelim",
+      "salada_3": "Beterraba e cebola cozida",
+      "arroz_1": "Arroz parboilizado",
+      "arroz_2": "Arroz integral",
+      "feijao": "Feijão-preto",
+      "guarnicao": "Batata-doce caramelizada",
+      "proteina": "Picadinho suíno",
+      "opcao_vegetariana": "Tomate recheado com lentilha",
+      "sobremesa": "Fruta"
+    },
+    {
+      "dia": "Quinta-feira",
+      "data": "09/04/26",
+      "salada_1": "Alface",
+      "salada_2": "Mix de repolho ralado",
+      "salada_3": "Tabule (contém glúten)",
+      "arroz_1": "Arroz parboilizado",
+      "arroz_2": "Arroz integral",
+      "feijao": "Feijão-preto",
+      "guarnicao": "Legumes sauté",
+      "proteina": "Lasanha de frango (contém glúten e lactose)",
+      "opcao_vegetariana": "Lasanha de abobrinha com PTS",
+      "sobremesa": "Pudim (contém lactose)"
+    },
+    {
+      "dia": "Sexta-feira",
+      "data": "10/04/26",
+      "salada_1": "Escarola",
+      "salada_2": "Tomate com cebola",
+      "salada_3": "Maionese de batata (contém lactose)",
+      "arroz_1": "Arroz parboilizado",
+      "arroz_2": "Arroz integral",
+      "feijao": "Feijão-carioca",
+      "guarnicao": "Farofa de legumes",
+      "proteina": "Peixe grelhado (contém glúten)",
+      "opcao_vegetariana": "Berinjela recheada",
+      "sobremesa": "Fruta"
+    }
+  ]
+}

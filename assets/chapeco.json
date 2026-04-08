@@ -1,0 +1,74 @@
+{
+  "chapeco": [
+    {
+      "dia": "SEGUNDA-FEIRA",
+      "data": "06/04/26",
+      "salada_1": "Alface lisa",
+      "salada_2": "Pepino",
+      "salada_3": "Tabule",
+      "arroz_1": "Arroz branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão-carioca",
+      "guarnicao": "Macarrão ao molho de ervas (CG)",
+      "proteina": "Peito de frango ao molho branco (CL)",
+      "opcao_vegetariana": "PTS ao molho branco (SL)",
+      "sobremesa": "Banana"
+    },
+    {
+      "dia": "TERÇA-FEIRA",
+      "data": "07/04/26",
+      "salada_1": "Chicória",
+      "salada_2": "Abobrinha ralada",
+      "salada_3": "Brócolis",
+      "arroz_1": "Arroz branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão-preto",
+      "guarnicao": "Batata doce caramelada",
+      "proteina": "Bisteca suína na chapa",
+      "opcao_vegetariana": "Almôndega de PTS",
+      "sobremesa": "Gelatina"
+    },
+    {
+      "dia": "QUARTA-FEIRA",
+      "data": "08/04/26",
+      "salada_1": "Mix de folhas com frutas",
+      "salada_2": "Cenoura ralada",
+      "salada_3": "Couve-flor",
+      "arroz_1": "Arroz branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão-preto",
+      "guarnicao": "Cabotiá rústica",
+      "proteina": "Filé de tilápia",
+      "opcao_vegetariana": "Ovo frito",
+      "sobremesa": "Maçã"
+    },
+    {
+      "dia": "QUINTA-FEIRA",
+      "data": "09/04/26",
+      "salada_1": "Couve-folha",
+      "salada_2": "Tomate",
+      "salada_3": "Abobrinha cozida",
+      "arroz_1": "Arroz branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão-carioca",
+      "guarnicao": "Batata-palha",
+      "proteina": "Estrogonofe de frango (CL)",
+      "opcao_vegetariana": "Estrogonofe de grão de bico (SL)",
+      "sobremesa": "Pudim de baunilha (CL)"
+    },
+    {
+      "dia": "SEXTA-FEIRA",
+      "data": "10/04/26",
+      "salada_1": "Alface crespa",
+      "salada_2": "Beterraba",
+      "salada_3": "Macarronese (CG)",
+      "arroz_1": "Arroz branco",
+      "arroz_2": "Arroz Integral",
+      "feijao": "Feijão preto",
+      "guarnicao": "Batata sauté",
+      "proteina": "Coxa e sobrecoxa assada",
+      "opcao_vegetariana": "Lasanha de PTS",
+      "sobremesa": "Mamão"
+    }
+  ]
+}
