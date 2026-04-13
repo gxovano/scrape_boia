@@ -57,8 +57,8 @@
       "sobremesa": "Banana"
     },
     {
-      "dia": "Sexta-feira",
-      "data": "17/04/26",
+      "dia": "Sexta-feira**",
+      "data": null,
       "salada_1": "Alface",
       "salada_2": "Pepino em Rodelas",
       "salada_3": "Abóbora Cozida com Cebola",

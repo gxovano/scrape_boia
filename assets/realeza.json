@@ -57,7 +57,7 @@
       "sobremesa": "Salada de Frutas"
     },
     {
-      "dia": "*Sexta-feira",
+      "dia": "Sexta-feira**",
       "data": null,
       "salada_1": "Mix de Folhas",
       "salada_2": "Pepino",
